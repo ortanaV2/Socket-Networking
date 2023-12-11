@@ -4,7 +4,6 @@ import json
 
 with open(r"./config.json", "r") as config_f:
     CONFIG = json.load(config_f)
-print(CONFIG)
 
 def handle_client(client_socket, client_address):
     while True:
