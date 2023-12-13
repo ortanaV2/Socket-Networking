@@ -1,5 +1,5 @@
 # Socket-Networking
-Networking with socket connections. Several clients calling a single server.
+Networking with socket connections. (Clients calling Hostserver)
 
 > [!NOTE]
 Documentation --> _**WIP**_
